@@ -50,7 +50,6 @@ function installOnceFromMenu() {
 
 
 function onOpen() {
-  openSidebar();
   if (PropertiesService.getScriptProperties().getProperty("installed") == "true")
     return;
   var ui = SpreadsheetApp.getUi();
