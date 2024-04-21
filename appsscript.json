@@ -1,5 +1,4 @@
 {
-  "timeZone": "America/Lima",
   "dependencies": {
   },
   "exceptionLogging": "STACKDRIVER",
