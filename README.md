@@ -1,5 +1,5 @@
 # workflow-apps-script
-This template a workflow to track tasks that follow steps.
+Template for a workflow to track tasks that follow steps.
 It can alert on due and expired steps per each task, while also navigating to alerted cells with a single click.
 It also demonstrates the use of conditional rules and ARRAYFORMULA.
 
